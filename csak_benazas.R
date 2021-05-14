@@ -12,3 +12,8 @@ print(b)
 # pushing proba
 
 c <- b + x
+
+# jahk proba
+
+d <- c/3
+print(d)
