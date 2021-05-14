@@ -17,3 +17,7 @@ c <- b + x
 
 d <- c/3
 print(d)
+
+# eltunik e vajon a jahk
+
+e <- c(d, 2, 3, 4)
